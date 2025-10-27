@@ -1,3 +1,7 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cmalagacode&show_icons=true&theme=tokyonight&card_width=50%&card_height=100%)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmalagacode&stats_format=bytes&theme=tokyonight&card_width=50%)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cmalagacode&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmalagacode&stats_format=bytes&theme=tokyonight" />
+</a>
 
