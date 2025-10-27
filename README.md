@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats" width=100%>
+  <a>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cmalagacode&show_icons=true&theme=tokyonight" />
   </a>
 <a href="https://github.com/anuraghazra/convoychat" width=100%>
