@@ -1,6 +1,5 @@
-<p align="left">![GitHub stats](https://github-readme-stats.vercel.app/api?username=cmalagacode&show_icons=true&theme=tokyonight)</p>
-<p align="right">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmalagacode&layout=compact)</p>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cmalagacode&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmalagacode&layout=compact)
 
 ### Socials
 
