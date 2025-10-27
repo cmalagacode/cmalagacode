@@ -6,7 +6,7 @@
     <img style="height: 150px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmalagacode&theme=tokyonight&hide_title=true" />
   </a>
   <a>
-    <img style="height: 150px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmalagacode&theme=tokyonight&hide_title=true" />
+    <img style="height: 150px;"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmalagacode&theme=tokyonight&hide_title=true&stats_format=bytes" />
   </a>
 </div>
 
