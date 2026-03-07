@@ -4,7 +4,7 @@ Hi 👋 My name is Cristian Malaga
 Software Engineer
 -----------------
 
-Data engineer by trade. Embedded engineer and Linux enthusiast in my free time.
+Data engineer by trade.
 
 * 🌍  I'm based in the Tampa Bay Area
 
